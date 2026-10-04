@@ -26,5 +26,13 @@
     "ts-node": "^10.9.2",
     "tsx": "^4.23.15",
     "typescript": "^6.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfguimara/reserva-laboratorios.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lfguimara/reserva-laboratorios/issues"
+  },
+  "homepage": "https://github.com/lfguimara/reserva-laboratorios#readme"
 }
